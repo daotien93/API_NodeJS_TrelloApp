@@ -5,6 +5,6 @@ const hostname = 'localhost'
 const port = 8080
 
 app.get('/', function (req, res) {
-    console.log(Code)
+    console.log("code base")
 })
 
